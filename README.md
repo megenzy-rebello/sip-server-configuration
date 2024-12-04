@@ -4,6 +4,6 @@
 <br>
 Contents of this Repo:
 <br>a)Two sip server config files</br>
-    b) One readme file</br>
+    b)One readme file</br>
 We need to create specific extensions and passwords for the remote clients in the sip server.Then configure remote clients with these extensions,passwords also specify remote sipservers DDNS hostname to reachout to the server.
 The sip server is in DMZ.Once the clients are online they will try to register themselves with the sip server, if extension and password matches then the sipserver will register the remote clients.Then you can dial from one remote codec to another using respective extension without using VPN.Also the sipserver is intermediary.</br>
