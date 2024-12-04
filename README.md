@@ -1,3 +1,2 @@
 # sip-server-configuration [Project time: Jul 2024 to August 2024]
-
 <br>I successfully installed and configured Ubuntu latest Server OS on a dedicated server using a live bootable USB drive, set up RAID and installed Asterisk to create a SIP server for remote audio codec connections. I customized the `sip.conf` and `extensions.conf` files to meet specific audio transmission requirements, utilizing my advanced Linux skills for server management and troubleshooting. By setting up the SIP server, the need for a VPN was eliminated, resulting in a fully functional system that enabled seamless remote audio communication. This project demonstrated my strong problem-solving abilities and technical expertise in Linux and server management.</br>
